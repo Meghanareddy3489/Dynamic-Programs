@@ -20,4 +20,5 @@ public class Solution {
 	}
 }
 
-Input:
+Input:3 5 -2 -4
+Output:120
