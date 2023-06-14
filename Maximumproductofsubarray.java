@@ -19,6 +19,5 @@ public class Solution {
 		return result;
 	}
 }
-
 Input:3 5 -2 -4
 Output:120
